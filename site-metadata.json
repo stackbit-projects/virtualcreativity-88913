@@ -29,7 +29,7 @@
     "footer": {
         "type": "footer",
         "template": "footer",
-        "content": "@p",
+        "content": "@pulkitgarg",
         "has_social": true,
         "social_links": [
             {
