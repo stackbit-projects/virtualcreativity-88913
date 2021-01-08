@@ -6,12 +6,7 @@ intro_content: >-
   yourself that people can read on the homepage to get a sense of who you are.
   There also exists a dedicated about page where you can write more about
   yourself for those who are interested.
-intro_actions:
-  - type: action
-    template: action
-    label: Contact
-    url: /contact
-    style: secondary
+intro_actions: []
 has_more_link: true
 more_link_text: Read more
 template: home
