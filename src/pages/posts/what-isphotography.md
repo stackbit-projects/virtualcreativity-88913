@@ -1,33 +1,42 @@
 ---
-title: What Is Photography and What It Means To Me
-subtitle: A intresting tale about Photography and me
-date: '2018-01-15'
-thumb_img_path: images/8.jpg
-thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
-content_img_path: images/8.jpg
-content_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
-excerpt: >-
-  Photography is the science, art and practice of creating durable images by
-  recording light or other electromagnetic radiation, either electronically by
-  means of an image sensor, or chemically by means of a light-sensitive material
-  such as photographic film.
+title: Game Accessibility – Why and How?
+subtitle: Making games accessible to all.
+date: 2020-12-27T18:30:00Z
+thumb_img_path: "/images/pexels-cottonbro-3945673.jpg"
+thumb_img_alt: ''
+content_img_path: ''
+content_img_alt: ''
+excerpt: A study estimated that 2% of the U.S. population is unable to play a game
+  at all because of an impairment and 9% can play games but suffers from a reduced
+  gaming experience. A study conducted by casual games studio PopCap games found that
+  an estimated one in five casual video gamers have a physical, mental or developmental
+  disability.
 template: post
+
 ---
+Wikipedia states video game accessibility as a subfield of computer accessibility, which studies how software and computers can be made accessible to users with various types of impairments. A study estimated that 2% of the U.S. population is unable to play a game at all because of an impairment and 9% can play games but suffers from a reduced gaming experience. A study conducted by casual games studio _PopCap games_ found that an estimated one in five casual video gamers have a physical, mental or developmental disability. Many more have situational impairments or difficulties such as playing in a noisy room or in bright sunlight, or just find the game difficult.
 
-**Photography is the science**, art and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film.
+The main accessibility challenges are:
 
-Typically, a lens is used to focus the light reflected or emitted from objects into a real image on the light-sensitive surface inside a camera during a timed exposure. With an electronic image sensor, this produces an electrical charge at each pixel, which is electronically processed and stored in a digital image file for subsequent display or processing. The result with photographic emulsion is an invisible latent image, which is later chemically "developed" into a visible image, either negative or positive depending on the purpose of the photographic material and the method of processing. A negative image on film is traditionally used to photographically create a positive image on a paper base, known as a print, either by using an enlarger or by contact printing.
+* Sensory impairment: This includes hearing and visual impairment. Hence the player is not able to receive feedback from the game.
+* Motor impairment: Due to impaired or restricted movement of hands, the player finds it difficult or impossible to play games.
+* Cognitive impairment: The player may not be able to understand how to play the game or what input to provide due to learning disabilities.
 
-> When you photograph people in color, you photograph their clothes. But when you photograph people in Black and white, you photograph their souls! ― Ted Grant
+| --- | --- |
+| Name | Effect on Games |
+| Deaf or Hard of Hearing | • Prevents gamer from following cut scenes or dialogs that may contain plot information.• Could prevent gamer from receiving game cues such as footsteps, explosions or other sounds. |
+| Visual – Blindness, Low Vision, or Color Blindness | • Color schemes may make it difficult for the color blind to see the game and differentiate between color coded information .• Small objects on the screen may not be visible to those with low vision.• Visually based games will not be accessible to the blind. |
+| Mobility | • Games that do not support alternative input devices may be inaccessible.• Games that do allow rebinding of controls may be inaccessible.• A lack of configurable difficulty levels could prevent gamers from completely enjoying the game. |
+| Cognitive | • Lack of a tutorial mode could be a problem for dyslexics.• Games that require a lot of micromanagement like RTS games will be difficult for those with learning impairments |
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non quam lacus suspendisse faucibus interdum posuere lorem. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ultricies mi quis hendrerit dolor magna eget est. Est velit egestas dui id ornare arcu. Elementum tempus egestas sed sed risus. Dui ut ornare lectus sit amet est placerat. Sed arcu non odio euismod lacinia at quis risus sed. Lectus urna duis convallis convallis tellus id interdum velit. Laoreet sit amet cursus sit amet dictum sit. 
+***
 
-Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Tincidunt lobortis feugiat vivamus at augue eget. Nulla at volutpat diam ut venenatis. Amet est placerat in egestas erat. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Urna cursus eget nunc scelerisque viverra mauris in aliquam sem. Molestie a iaculis at erat pellentesque. Sed tempus urna et pharetra pharetra. Lacus viverra vitae congue eu consequat ac felis donec. Sapien eget mi proin sed libero enim sed.
+## What can be done?
 
-## Creative Photography
+| --- | --- |
+| Challenge | Strategy |
+| Sensory impairment | • Enhance stimuli: for example, high contrast color scheme, increased font size, color blind friendly color scheme and zoom options• Replace stimuli: for example, subtitles or closed captioning, audio cues, sonification, speech synthesis or haptic cues. |
+| Motor impairment | • Replace input: for example, support for direct voice input or a brain-computer interface.• Reduce input: for example, switch access scanning and remove or automate inputs. |
+| Cognitive impairment | • Reduce stimuli: for example, limit the number of game objects, or simply the storyline.• Reduce time constraints: for example, slow down the game.• Reduce input: for example, remove or automate inputs that needs to be provided. |
 
-Faucibus et molestie ac feugiat. Auctor augue mauris augue neque gravida in fermentum. Consequat semper viverra nam libero justo laoreet sit amet. Porttitor lacus luctus accumsan tortor posuere ac ut consequat. Euismod quis viverra nibh cras pulvinar mattis nunc. Nibh cras pulvinar mattis nunc sed. Pellentesque massa placerat duis ultricies. Mollis aliquam ut porttitor leo a diam. Donec et odio pellentesque diam. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin.
-
-Odio pellentesque diam volutpat commodo. Purus in mollis nunc sed id semper. Cursus mattis molestie a iaculis at erat pellentesque adipiscing commodo. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Viverra nibh cras pulvinar mattis nunc sed blandit. Massa tincidunt dui ut ornare lectus. Turpis tincidunt id aliquet risus. Ut aliquam purus sit amet luctus venenatis lectus. Consectetur adipiscing elit pellentesque habitant. Natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Quis vel eros donec ac. Ut pharetra sit amet aliquam id. Lobortis elementum nibh tellus molestie nunc non blandit. Dignissim cras tincidunt lobortis feugiat vivamus at. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Lorem mollis aliquam ut porttitor leo a diam sollicitudin tempor. Mattis nunc sed blandit libero volutpat sed. Dignissim diam quis enim lobortis scelerisque fermentum.
-
-Gravida dictum fusce ut placerat orci nulla pellentesque. Elementum nibh tellus molestie nunc non. Tortor at risus viverra adipiscing at in. Eget nulla facilisi etiam dignissim diam quis. Feugiat in fermentum posuere urna. Mollis aliquam ut porttitor leo a diam sollicitudin tempor id. Ullamcorper eget nulla facilisi etiam dignissim diam quis. Quis imperdiet massa tincidunt nunc. Orci phasellus egestas tellus rutrum tellus pellentesque. Sagittis vitae et leo duis ut. Ornare quam viverra orci sagittis. Mi sit amet mauris commodo. Elit sed vulputate mi sit amet mauris commodo quis imperdiet.
+We will discuss about these issues detail individually in further posts.
