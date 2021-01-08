@@ -1,7 +1,7 @@
 {
     "title": "Virtual Creativity",
     "description": "Everything Gamedev",
-    "layout_style": "grid",
+    "layout_style": "list",
     "palette": "green",
     "header": {
         "type": "header",
