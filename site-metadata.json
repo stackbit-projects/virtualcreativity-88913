@@ -2,7 +2,7 @@
     "title": "Virtual Creativity",
     "description": "Everything Gamedev",
     "layout_style": "list",
-    "palette": "green",
+    "palette": "blue",
     "header": {
         "type": "header",
         "template": "header",
