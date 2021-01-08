@@ -30,7 +30,7 @@
         "type": "footer",
         "template": "footer",
         "content": "@pulkitgarg",
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "type": "action",
