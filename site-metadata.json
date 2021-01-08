@@ -20,13 +20,6 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
