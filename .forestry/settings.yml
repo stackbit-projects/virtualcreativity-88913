@@ -4,6 +4,15 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5ff889132618120016919d9d/webhook/forestry
 sections:
+- type: directory
+  path: src/pages
+  label: Pages
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - page
+  - post
 - type: document
   path: site-metadata.json
   label: Site Configuration
@@ -19,15 +28,6 @@ sections:
   label: Contact
   templates:
   - contact
-- type: directory
-  path: src/pages
-  label: Pages
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - page
-  - post
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
