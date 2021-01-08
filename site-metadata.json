@@ -29,7 +29,7 @@
     "footer": {
         "type": "footer",
         "template": "footer",
-        "content": "",
+        "content": "@p",
         "has_social": true,
         "social_links": [
             {
